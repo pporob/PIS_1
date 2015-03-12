@@ -9,6 +9,7 @@ namespace PIS_1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Nova promjena.");
             Console.WriteLine("Hello world!!!");
             Console.WriteLine("bla bla xD");
             Console.WriteLine("bla bla");
